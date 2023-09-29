@@ -1,0 +1,29 @@
+@media(min-width:320px){
+	.card-para{
+	height:40vh;
+	}
+	.card-para h1{
+	padding:10px 0;
+}
+.card-para p{
+	padding-bottom:10px;
+}
+@media(min-width:760px){
+	.card-para{
+	height:60vh; }
+	.card-para h1{
+	padding:20px 0;
+}
+.card-para p{
+	padding-bottom:20px;
+}
+@media(min-width:960px){
+	.card-para{
+	height:60vh;
+	}
+	.card-para h1{
+	padding:20px 0;
+}
+.card-para p{
+	padding-bottom:20px;
+}
